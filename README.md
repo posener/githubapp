@@ -1,5 +1,8 @@
 # githubapp
 
+[![GoDoc](https://godoc.org/github.com/posener/githubapp?status.svg)](http://godoc.org/github.com/posener/githubapp)
+[![goreadme](https://goreadme.herokuapp.com/badge/posener/githubapp.svg)](https://goreadme.herokuapp.com)
+
 Package githubapp provides oauth2 Github app authentication client.
 
 According to [https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps](https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps).
